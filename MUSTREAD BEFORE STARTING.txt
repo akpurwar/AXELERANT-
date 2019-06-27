@@ -1,0 +1,21 @@
+Axelerant test
+
+
+The project uses xamp(apache,mysqldatabase(PDO),PHPMYADMIN
+put the files in xamp/htdocs
+1)FILES:
+a)poll_dump has table create and insert command 
+    Tables are :plus_poll
+                plus_poll_ans 
+(CREATE THESE TABLE AND INSERT THE VALUES USING phpmyadmin)
+
+b)poll_display and poll_diplayck provides options and submit
+c)view_poll_result:percentage calculation and result display
+d)config provides database connectivity.
+e)graph.jpg image file taken from net to show bar 
+
+
+
+Steps to run 
+create database as defined than 
+run poll_display.php using xamp localhost 
